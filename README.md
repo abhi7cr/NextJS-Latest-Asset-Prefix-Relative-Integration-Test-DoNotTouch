@@ -1,4 +1,4 @@
-# NextJS v13
+# NextJS Latest
 
 Uses Typescript. 
 Does not use experimental `app` directory.
